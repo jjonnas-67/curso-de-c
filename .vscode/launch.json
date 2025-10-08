@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/zejon/OneDrive/Desktop/cursodec",
-      "program": "c:/Users/zejon/OneDrive/Desktop/cursodec/build/Debug/outDebug",
+      "cwd": "c:/Users/zejon/OneDrive/Desktop/cursodec/prática",
+      "program": "c:/Users/zejon/OneDrive/Desktop/cursodec/prática/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

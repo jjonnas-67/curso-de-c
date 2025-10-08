@@ -26,3 +26,4 @@ int main(){
     printf("pes.idade: %d\n", pes.idade);
     printf("pes.peso: %.2f\n", pes.peso);
     printf("pes.nome: %s\n", pes.nome);
+}
