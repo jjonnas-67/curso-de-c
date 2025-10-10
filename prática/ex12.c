@@ -12,7 +12,7 @@ int main(){
     printf("Insira o valor do salário mínimo: \n");
     scanf("%f", &slr_minimo);
 
-    printf("Salário a receber: %.2f.\n", salario(hrs_trabalhadas, slr_minimo));
+    printf("Salário a receber: R$%.2f.\n", salario(hrs_trabalhadas, slr_minimo));
 }
 
 float salario(int horas_t, float salario_min){
